@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/turbitcat/tbcpusher/plugins/telegram/v2/wsgo"
-	"github.com/turbitcat/tbcpusher/plugins/telegram/v2/wsgo/header"
+	"github.com/turbitcat/tbcpusher_telegram/v2/wsgo"
+	"github.com/turbitcat/tbcpusher_telegram/v2/wsgo/header"
 )
 
 type SessionInfo struct {

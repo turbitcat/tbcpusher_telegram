@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/turbitcat/tbcpusher/plugins/telegram/v2/wsgo"
+	"github.com/turbitcat/tbcpusher_telegram/v2/wsgo"
 	"gopkg.in/telebot.v3"
 )
 
